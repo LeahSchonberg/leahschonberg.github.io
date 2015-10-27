@@ -1,0 +1,10 @@
+body {
+	background: white;
+}
+h1	{
+	font-family: helvetica;
+	color: red;
+}
+#container {
+	text-align: center;
+}
