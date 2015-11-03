@@ -1,0 +1,21 @@
+Homework #1 (Optional Bonus Challenge) - Due 11/03/2015
+
+1) The goal of the bonus assignment is to replicate the two specs you see in the instructions/ folder:
+
+- about.png
+- portfolio.png
+
+2) The folder class-02-hw-bonus/ contains everything you need to get started:
+
+- index.html (you would re-create about.png here)
+- portfolio.html (you would re-create portfolio.png here)
+- style.css (link this file to both index and portfolio)
+- three images: citipix, relaxr, and startup_matchmaker (you would include these images in portfolio.html
+
+Hints/Tips:
+
+Start with about.html first:
+
+1) Add proper HTML structure (doctype, head, etc.)
+2) Use a <link> tag to connect it with style.css
+3) Add the HTML first; in other words, build the content and then add the CSS styling

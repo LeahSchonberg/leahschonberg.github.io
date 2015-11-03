@@ -1,0 +1,45 @@
+
+h1{
+
+  font-family: helvetica, sans-serif;
+  text-align: center;
+  font-size: 45px;
+  }
+
+
+a {
+	color: black;
+	text-decoration: none;
+	font-family: helvetica, sans-serif;
+	}
+
+li {
+    display: inline;
+    text-align: center;
+    }
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:10px 0;
+}
+
+button {
+
+background-color: white;
+border: none;
+
+}
+
+#menu-outer {
+	height: 84px;
+}
+
+.table {
+	display: table;
+	margin: 0 auto;
+}
+
+ul #horizontal-list li {
+	display: inline;
+}
