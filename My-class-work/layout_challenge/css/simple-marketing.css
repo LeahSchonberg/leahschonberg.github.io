@@ -1,0 +1,30 @@
+container {
+	margin: 0 auto;
+}
+
+header {
+	background-color: red;
+	height: 100px;
+}
+
+section {
+	background-color: yellow;
+	height: 250px;
+	width: 600px;
+	float: left;
+}
+
+article {
+	clear: both;
+	background-color: green;
+	height: 100px;
+	width: 400px;
+	float: left;
+}
+
+footer {
+	clear: both;
+	background-color: blue;
+	height: 100px;
+
+}
