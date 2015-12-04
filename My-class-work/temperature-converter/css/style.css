@@ -1,0 +1,29 @@
+body {
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  margin: 20px;
+  padding-top: 20px;
+  font-weight: strong;
+  background-image: url("http://www.funnypica.com/wp-content/uploads/2012/12/Ugly-Dog-02.jpg");
+}
+
+label {
+  font-color: white;
+}
+
+label,
+button,
+input {
+  display: block;
+  margin: 10px auto;
+  width: 100px;
+  padding: 6px;
+}
+
+label {
+  text-align: center;
+}
+
+button {
+  margin-bottom: 35px;
+
+}
