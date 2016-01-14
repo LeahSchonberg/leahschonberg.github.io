@@ -1,173 +1,123 @@
-
-
 h1 {
-
-font-family: 'Lato', sans-serif;
-text-align: center;
-font-size: 30px;
-padding-top: 0;
-
-    }
-
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 0;
+}
 h2 {
-font-family: 'Lato', sans-serif;
-text-align: center;
-padding-top: 50px;
-font-size: 20px;
-
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
 }
-
-.nav {
-    position: fixed;
-    top: 0;
-    z-index: 1;
-}
-
-
 
 ul {
     list-style-type: none;
     overflow: hidden;
     background-color: white;
     text-align: center;
-
 }
-
 .h1 {
-
-  padding-top: 100px;
+    padding-top: 100px;
 }
-
 li {
-    
     display: inline-block;
     padding-left: 50px;
-
-  
 }
-
-
 li a {
-    
     text-align: center;
     text-decoration: none;
     display: block;
     padding-right: 75px;
-    
 }
-
 #nav-wrapper ul {
-margin: 0;
-padding: 0;
-list-style-type: none;
-text-align: center;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
 }
-    
-
 ul.img-list {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
-
 ul.img-list li {
-  display: inline-block;
-  height: 100px;
-  margin: 0 1em 1em 0;
-  position: relative;
-  width: 100px;
+    display: inline-block;
+    height: 100px;
+    margin: 0 1em 1em 0;
+    position: relative;
+    width: 100px;
 }
-
-
 span.text-content {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 100px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    cursor: pointer;
+    display: table;
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100px;
 }
-
 span.text-content span {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
 }
-
-
 span.text-content {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 100px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100px;
-  opacity: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    cursor: pointer;
+    display: table;
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100px;
+    opacity: 0;
 }
-
 ul.img-list li:hover span.text-content {
-  opacity: 1;
+    opacity: 1;
 }
-
 span.text-content {
-  background: white;
-  color: black;
-  font-weight: bold;
-  cursor: pointer;
-  display: table;
-  height: 200px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 200px;
-  opacity: 0;
+    background: white;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    display: table;
+    height: 200px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 200px;
+    opacity: 0;
 }
-
 p {
-  text-align: right;
-  padding-right: 200px; 
-  padding-left: 200px;
-  font-size: 12px;
-  margin-top: 0;
-  margin-bottom: 0;
-
+    text-align: right;
+    padding-right: 200px;
+    padding-left: 200px;
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
-
-
 * {
     margin: 0;
     padding: 0;
 }
-
 body {
     font-size: 62.5%;
     font-family: 'Lato', sans-serif;
-    }
-
-
-
+}
 p {
     font-size: 1.3em;
     margin-bottom: 15px;
     margin: 0;
 }
-
-
-
-  img.center {
+img.center {
     display: block;
     margin: 0 auto;
 }
-
-
-
 #page-wrap {
     width: 660px;
     background: white;
@@ -177,13 +127,12 @@ p {
     height: auto !important;
     height: 500px;
 }
-
 #contact-area {
     width: 600px;
     margin-top: 25px;
 }
-
-#contact-area input, #contact-area textarea {
+#contact-area input,
+#contact-area textarea {
     padding: 5px;
     width: 471px;
     font-family: Helvetica, sans-serif;
@@ -191,20 +140,17 @@ p {
     margin: 0px 0px 10px 0px;
     border: 2px solid #ccc;
 }
-
 #contact-area textarea {
     height: 90px;
 }
-
-#contact-area textarea:focus, #contact-area input:focus {
+#contact-area textarea:focus,
+#contact-area input:focus {
     border: 2px solid #900;
 }
-
 #contact-area input.submit-button {
     width: 100px;
     float: right;
 }
-
 label {
     float: left;
     text-align: right;
@@ -214,20 +160,15 @@ label {
     font-size: 1.4em;
 }
 
-#fotorama {
-
-  padding-top: 10px;
-
 }
-
 section {
-
-  padding-top: 20px;
+    padding-top: 100px;
 }
-
 img {
     display: block;
     margin-left: auto;
-    margin-right: auto 
-  }
+    margin-right: auto
+}
+
+
 
